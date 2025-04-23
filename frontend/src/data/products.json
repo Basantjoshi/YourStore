@@ -1,0 +1,106 @@
+[
+    {
+      "_id": "68061fcbe3d7535ec8df7531",
+      "name": "Sofa Set",
+      "category": "Living Room",
+      "description": "This a brand new Sofa",
+      "price": 7998,
+    
+      "image": "https://res.cloudinary.com/dlisptm1b/image/upload/v1745231785/vl3kzjdlyzfmzw0ciqdm.png",
+      "rating": 4.5,
+      "author":"admin"
+    },
+    {
+      "_id": "6806953d3a06d272417fd63f",
+      "name": "Rocket Single Seater",
+      "category": "Living Room",
+      "description": "get upto 20% discount in this product",
+      "price": 5000,
+      
+      "image": "https://res.cloudinary.com/dlisptm1b/image/upload/v1745261853/xi0u3zu4mq2wjlce5gx5.png",
+      "rating": 4.5,
+      "author":"admin"
+    },
+    {
+      "_id": "6806a1523a06d272417fd670",
+      "name": "Modern L-Shaped Sofa",
+      "category": "Living Room",
+      "description": "Spacious and comfortable L-shaped sofa perfect for any living room.",
+      "price": 25000,
+      
+      "image": "https://png.pngtree.com/png-clipart/20231222/original/pngtree-l-shaped-sectional-sofa-png-image_13915722.png",
+      "rating": 4.7,
+      "author": "admin"
+    },
+    {
+      "_id": "6806a39a3a06d272417fd67d",
+      "name": "Queen Size Bed Frame",
+      "category": "Bedroom",
+      "description": "Durable wooden queen bed frame with a modern headboard design.",
+      "price": 30000,
+      
+      "image": "https://pngimg.com/d/bed_PNG17418.png",
+      "rating": 4.5,
+      "author": "67f63e8c96df72bd986ad7fa"
+    },
+    {
+      "_id": "6806a3e13a06d272417fd680",
+     "name": "Nightstand with Drawers",
+     "category": "Bedroom",
+     "description": "Elegant bedside table with two smooth-glide drawers.",
+     "price": 8000,
+    
+     "image": "https://static.vecteezy.com/system/resources/previews/045/592/798/non_2x/bedside-table-with-drawers-on-transparent-background-png.png",
+     "rating": 4.3,
+     "author": "67f63e8c96df72bd986ad7fa"
+   },
+   
+  {
+    "_id": "6806a4273a06d272417fd683",
+   "name": "6-Seater Dining Table Set",
+   "category": "Dining Room",
+   "description": "Classic wooden dining set with six cushioned chairs.",
+   "price": 5000,
+  
+   "image": "https://png.pngtree.com/png-vector/20231123/ourmid/pngtree-dining-table-and-chairs-isolated-dining-table-png-image_10658977.png",
+   "rating": 4.7,
+   "author": "67f63e8c96df72bd986ad7fa"
+ },
+ {
+  "_id": "6806a46c3a06d272417fd686",
+  "name": "Buffet Cabinet",
+  "category": "Dining Room",
+  "description": "Spacious sideboard for storing dinnerware and glassware.",
+  "price": 6000,
+ 
+  "image": "https://static.vecteezy.com/system/resources/thumbnails/052/241/529/small_2x/elegant-white-sideboard-cabinet-on-transparent-background-png.png",
+  "rating": 4.4,
+  "author": "67f63e8c96df72bd986ad7fa"
+},
+ 
+{
+  "_id": "6806a49d3a06d272417fd689",
+ "name": "Ergonomic Office Chair",
+ "category": "Office Furniture",
+ "description": "Mesh-backed ergonomic chair with lumbar support.",
+ "price": 5000,
+
+ "image": "https://png.pngtree.com/png-vector/20240203/ourmid/pngtree-black-office-chair-png-image_11537176.png",
+ "rating": 4.6,
+ "author": "67f63e8c96df72bd986ad7fa"
+},
+{
+  "_id": "6806a4cb3a06d272417fd68c",
+"name": "Adjustable Standing Desk",
+"category": "Office Furniture",
+"description": "Electric height-adjustable desk for a healthier work routine.",
+"price": 7000,
+
+"image": "https://png.pngtree.com/png-vector/20241205/ourmid/pngtree-bekant-sit-stand-desk-with-transparent-background-png-image_14644024.png",
+"rating": 4.8,
+"author": "67f63e8c96df72bd986ad7fa"
+}
+
+ 
+    
+  ]
