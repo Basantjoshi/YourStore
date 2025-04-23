@@ -43,7 +43,7 @@ router.get("/", async (req, res) => {
   
       const filter = {};
   
-      // Normalize category (hyphenated form)
+      // Normalize category
       if (category && category !== "all") {
         filter.category = category.toLowerCase().replace(/-/g, " ");
       }
