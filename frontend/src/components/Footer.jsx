@@ -68,7 +68,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="footer__bar">
-        Copyright @2025 YourShop. All rights reserved.
+        Copyright @2025 YourStore. All rights reserved.
       </div>
     </>
   );
